@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "template": "lighting-studio",
+  "brand": "STUDIO LUMA \u00b7 DEMO",
+  "category": "lighting",
+  "eyebrow": "SCULPTED LIGHT",
+  "headline": "Light becomes",
+  "emphasis": "architecture.",
+  "summary": "Atmospheric interiors, luminous materials and a gallery-grade lighting presentation.",
+  "accent": "#f4ca85",
+  "secondary": "#b78066",
+  "background": "#100f12",
+  "foreground": "#fbf3e3",
+  "concept": "lamp",
+  "layout": "gallery",
+  "chapters": [
+    "An introduction to the extraordinary",
+    "Design worth exploring",
+    "Thoughtfully made for real life"
+  ],
+  "products": [
+    {
+      "id": "concept-01",
+      "name": "Concept study 01",
+      "description": "Concept demo \u2014 not real inventory",
+      "modelPath": null,
+      "imagePath": null,
+      "price": null,
+      "currency": "INR",
+      "purchaseUrl": null,
+      "concept": "lamp"
+    },
+    {
+      "id": "concept-02",
+      "name": "Concept study 02",
+      "description": "Concept demo \u2014 not real inventory",
+      "modelPath": null,
+      "imagePath": null,
+      "price": null,
+      "currency": "INR",
+      "purchaseUrl": null,
+      "concept": "lamp"
+    },
+    {
+      "id": "concept-03",
+      "name": "Concept study 03",
+      "description": "Concept demo \u2014 not real inventory",
+      "modelPath": null,
+      "imagePath": null,
+      "price": null,
+      "currency": "INR",
+      "purchaseUrl": null,
+      "concept": "lamp"
+    }
+  ],
+  "supportEmail": null,
+  "recipe": [
+    "editorial",
+    "material",
+    "filmstrip",
+    "process"
+  ]
+}
